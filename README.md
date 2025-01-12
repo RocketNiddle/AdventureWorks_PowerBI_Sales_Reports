@@ -34,6 +34,7 @@ This project automates reporting for AdventureWorks Cycle, transitioning from st
 
 ![Product_info](Product_info.png) 
 
+##Tooltip
 ![Tooltip](Tooltip.png)
 
 ![DAX](DAX.png)
