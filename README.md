@@ -37,7 +37,7 @@ This project automates reporting for AdventureWorks Cycle, transitioning from st
 ##Tooltip
 ![Tooltip](Tooltip.png)
 
-![DAX](DAX.png)
+![Totalmargin](Totalmargin.png)
 
 ## Tools & Technologies  
 - **Power BI Desktop**  
