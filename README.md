@@ -34,10 +34,10 @@ This project automates reporting for AdventureWorks Cycle, transitioning from st
 
 ![Product_info](Product_info.png) 
 
-##Tooltip
-![Tooltip](Tooltip.png)
-
 ![Totalmargin](Totalmargin.png)
+
+## Tooltip
+![Tooltip](Tooltip.png)
 
 ## Tools & Technologies  
 - **Power BI Desktop**  
